@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "arefmenna-regular";
+    src: url("website/static/src/fonts/arefmenna-regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "arefmenna-bold";
+    src: url("website/static/src/fonts/arefmenna-bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "arefmenna-lightItalic";
+    src: url("website/static/src/fonts/arefmenna-lightItalic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "droidarabickufi";
+    src: url("website/static/src/fonts/droidarabickufi.woff") format("woff");
+}
+
+@font-face {
+    font-family: "droidarabickufi-bold";
+    src: url("website/static/src/fonts/droidarabickufi-bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "droidarabicnaskh";
+    src: url("website/static/src/fonts/droidarabicnaskh.woff") format("woff");
+}
+
+@font-face {
+    font-family: "droidsansarabic";
+    src: url("website/static/src/fonts/droidsansarabic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "frenchscriptmt";
+    src: url("website/static/src/fonts/frenchscriptmt.woff") format("woff");
+}
+
+@font-face {
+    font-family: "mondai";
+    src: url("website/static/src/fonts/mondai.woff") format("woff");
+}
+
+@font-face {
+    font-family: "MOLSAQARABIC-EXTRABOLD";
+    src: url("website/static/src/fonts/MOLSAQARABIC-EXTRABOLD.woff") format("woff");
+}
